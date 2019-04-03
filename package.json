@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Igor Cernjak",
-  "homepage": "https://cernjak.github.io/siteName",
+  "homepage": "https://cernjak.github.io/restoran",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^2.0.0"
